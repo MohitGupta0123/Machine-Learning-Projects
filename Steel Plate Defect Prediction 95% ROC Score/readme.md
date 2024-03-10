@@ -1,4 +1,4 @@
-# Advance House Price Prediction Project
+# Steel Plate Defect Prediction Project
 
 #### Best Model : Gradient Boosting Classifier
 #### Best R2 Score Training : 93.5 %
